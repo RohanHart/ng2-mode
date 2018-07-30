@@ -32,9 +32,6 @@
 
 ;;; Code:
 
-(require 'ng2-ts)
-(require 'ng2-html)
-
 (defgroup ng2 nil
   "Major mode for AngularJS 2 files"
   :prefix "ng2-"

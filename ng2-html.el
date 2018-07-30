@@ -32,6 +32,8 @@
 
 ;;; Code:
 
+(require 'ng2-ts)
+
 (defconst ng2-html-var-regex
   "\\(#\\)\\(\\w+\\)")
 

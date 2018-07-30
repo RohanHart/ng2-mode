@@ -33,6 +33,7 @@
 ;;; Code:
 
 (require 'typescript-mode)
+(require 'ng2-mode)
 
 (defconst ng2-ts-decorator-keywords
   '("@Component"
